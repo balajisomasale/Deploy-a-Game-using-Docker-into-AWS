@@ -8,4 +8,6 @@ source code : https://github.com/gabrielecirulli/2048
 - create a Docker file that will create a Docker container
 - Deploy the docker container into AWS Elastic Beanstalk
 
-  
+stopped at 9.20 to fix docker desktop 
+
+
